@@ -6,6 +6,13 @@ In each region there is an estimated number of critical patients who are going t
 
 In this problem a linear optimization with Python functions is developed. Then the variables are considered integers to show how the problem should be resolved in this case.
 
+## Notebook
+
+The implementation with all the details is presented in the notebook **covid_optimization.ipynb**.
+
 ## Data
+
+Distances as well as respirators and covid patients are stored in **data.xlsx**.
+
 
 
